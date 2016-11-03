@@ -1,0 +1,1 @@
+A pretty, non-sluggish git gui (oh, and it's bug-free!)
